@@ -1,2 +1,3 @@
 # visafinalcalculator
-Vize Final Hesaplama Programı
+Hazırık Sınıfları Vize Final Hesaplama Programı
+by @atahabaki and @mrarvel
